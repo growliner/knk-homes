@@ -12,7 +12,7 @@ const services = [
     image: "/living-room.jpg",
     description:
       "Complete flat renovation with transparent pricing. We transform your living space into a modern sanctuary — from demolition to final polish. Space planning, 3D rendering, material selection, and flawless execution.",
-    features: ["Space Planning", "3D Visualization", "Material Curation", "Turnkey Execution"],
+    features: ["Space Planning", "3D Design", "Material Curation", "Turnkey Execution"],
   },
   {
     icon: <CookingPot className="w-7 h-7" />,
