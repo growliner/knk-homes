@@ -5,7 +5,7 @@ import Image from "next/image";
 
 const projects = [
   { src: "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=1200&q=80", title: "Luxury Living Room", location: "DLF Phase 5" },
-  { src: "https://unsplash.com/photos/a-kitchen-with-a-stove-top-oven-sitting-inside-of-it-Va7c7z3_jIA?auto=format&fit=crop&w=1200&q=80", title: "Designer Kitchen", location: "Sector 49" },
+  { src: "https://images.unsplash.com/photo-1722942433067-89e74112d908?auto=format&fit=crop&w=1200&q=80", title: "Designer Kitchen", location: "Sector 49" },
   { src: "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?auto=format&fit=crop&w=1200&q=80", title: "Master Bedroom Suite", location: "Golf Course Road" },
   { src: "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80", title: "Contemporary Villa Interior", location: "Sohna Road" },
 ];
